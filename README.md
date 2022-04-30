@@ -1,4 +1,4 @@
-Hi 👋 My name is Eduardo Mercado|
+Hi 👋 My name is Eduardo Mercado
 =================================
 
 Web Developer
